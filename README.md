@@ -19,3 +19,4 @@ https://stepik.org/lesson/252004/step/1?unit=228267&utm_campaign=expversion1&utm
 Строка1<br>строка2
 Перенос строки (без создания абзаца)	Строка1
 строка2
+https://caniuse.com/webp.

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> omline story</title>
+		
+	</head>
+
+
+
+
+	<body>
+		<h1></h1>
+		<h1></h1>
+		<ul>
+			<li><strong><a href="https://www.youtube.com/watch?v=xcGtfYUfDLo&t=225s">youtube</a></strong></li>
+			
+		</ul>
+
+
+		    <table>
+		    	<thead>
+		    		<th>name</th>
+		    		<th>email</th>
+		    		<th>password</th>
+		    		
+		    	</thead>
+		    	
+		    	<tbody>
+
+		    		<td>baiel</td>
+		    		<td>bajelb9gmail.com</td>
+		    		<td>12345baiel</td>
+
+		    		
+
+		    	
+
+		    </table>
+		    <br>
+		    <hr>
+		    	</tbody>
+		    	<form action="emil.php">
+		    		<label>name</label>
+		    		<input type="baiel" name="baiel" placeholder="name">
+
+		    		<label for='is marreid'>
+		    			is marreid:
+		    			<input type="checkbox" name="ismarreid">
+		    	
+
+		    	</label>
+		    	<br>
+		    	<form action="emil.php">
+		    		<label>name</label>
+		    		<input type="baiel" name="baiel" placeholder="name">
+
+		    		<label for='is marreid'>
+		    			is marreid:
+		    			<input type="radio" name="ismarreid">
+		    	
+
+		    	</label>
+		    	<br>
+		    	<label>
+		    	<br>
+		    	<form action="emil.php">
+		    		<label>name</label>
+		    		<input type="baiel" name="baiel" placeholder="name">
+
+		    		<label for='is marreid'>
+		    			is marreid:
+		    			<input type="radio" name="ismarreid">  <!---eki name okshosh bolush kerek--->
+		    	
+
+		    	</label>
+
+
+
+		    		
+		    	</form>
+
+
+
+
+		<p>Если ты <img src="happyface.gif" alt="счастлив">, хлопай в ладоши!</p>
+		<img src="/images/icon.gif" alt="Иконка">
+		<img src="apple.jpg" width="400" height="400" alt="Яблоко">
+		<table>
+  <tr>
+    <th colspan="2">Жиры (г)</th>
+  </tr>
+  <tr>
+    <td>Насыщенные жиры (г)</td>
+    <td>Ненасыщенные жиры (г)</td>
+  </tr>
+</table>
+<form>
+  Имя:<br>
+  <input type="text" name="firstname" id="firstname"><br>
+  Фамилия:<br>
+  <input type="text" name="lastname" id="lastname">
+</form>
+<h1>Авторизация</h1>
+<form>
+  Имя пользователя
+  <br>
+  <input type="text" name="login">
+  <br>
+  Пароль
+  <br>
+  <input type="password" name="password">
+</form>
+
+
+	</body>
+
+
+</html>

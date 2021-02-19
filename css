@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Пример глобальных стилей</title>
+  <style type="text/css">
+   p { color: red; }
+  </style>
+ </head>
+ <body> 
+  <p>Это текст будет отображаться красным цветом</p>
+ </body>
+</html>
+
+<link rel="stylesheet" href="css/style.css">
+
+body {
+  font-size: small;
+  /* font-size: large; */
+}
+
+p { color: navy; }
+p, ul, a { color: navy; }
